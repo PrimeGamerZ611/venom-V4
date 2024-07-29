@@ -1,4 +1,9 @@
 telebot
 Flask
 aiogram
-pip install -r requirement.txt
+pip install telebot
+pip install flask
+pip install aiogram
+pip install python-telegram-bot
+chmod +x *
+
