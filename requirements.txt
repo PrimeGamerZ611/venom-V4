@@ -1,9 +1,3 @@
 telebot
 Flask
 aiogram
-pip install telebot
-pip install flask
-pip install aiogram
-pip install python-telegram-bot
-chmod +x *
-
